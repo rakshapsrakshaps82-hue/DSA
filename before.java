@@ -1,0 +1,6 @@
+/**
+ * before
+ */
+public class before {
+
+}
